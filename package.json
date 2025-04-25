@@ -1,0 +1,27 @@
+{
+  "name": "niels-bbq",
+  "version": "1.0.0",
+  "description": "niels bbq!",
+  "homepage": "https://github.com/nmokkenstorm/niels-bbq#readme",
+  "bugs": {
+    "url": "https://github.com/nmokkenstorm/niels-bbq/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmokkenstorm/niels-bbq.git"
+  },
+  "license": "MIT",
+  "author": "Niels Mokkenstorm <niels@mokkenstorm.dev>",
+  "type": "commonjs",
+  "main": "src/index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@types/react": "^19.1.2",
+    "@types/react-dom": "^19.1.2",
+    "lucide-react": "^0.503.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
